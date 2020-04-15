@@ -1,3 +1,4 @@
+# Hecho por: Gary Omar Nova Mamani
 sw = True
 Rojo='\003[1;31m'
 Verde='\003[1;32m'
